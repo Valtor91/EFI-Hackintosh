@@ -5,7 +5,15 @@ The EFI folder present here must replace the old one located in the boot of your
 My configuration:
 
 -Dell Latitude 7280
+
+
 -Intel Core i5-6300U 2.40Gz 2Core
+
+
 -intel Graphique 530
+
+
 -8GB RAM DDR5
+
+
 -Any WiFi card works, but it must be Intel
