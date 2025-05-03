@@ -17,3 +17,7 @@ My configuration:
 
 
 -Any WiFi card works, but it must be Intel
+
+-Trackpad is not working.
+
+-keybord is working 
